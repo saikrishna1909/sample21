@@ -1,5 +1,4 @@
 <!doctype html>
-
  <head> 
   <meta charset="UTI=8"> 
   <title>Assignment1</title> 
