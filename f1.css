@@ -5,21 +5,21 @@ h1 {
 }
    
 
-.d1<.h
+.d1< .h
  {
      background: blue;
      padding: 10px;
      height: 30px;
       width: 30px;
  }
- .d2<.h2
+ .d2< .h2
 {  
     background: red;
 padding: 10px;
      height: 30px;
       width: 30px;
 }
-.d3<.h3
+.d3< .h3
 {
      background: orange;
     padding: 10px;
