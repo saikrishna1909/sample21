@@ -1,6 +1,6 @@
 <!doctype html>
  <head> 
-  <meta charset="UTI=8"> 
+  <meta charset="utf=8"> 
   <title>Assignment1</title> 
   <link rel="stylesheet" href="monFichier1.css"/> 
  </head> 
