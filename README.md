@@ -2,7 +2,7 @@
  <head> 
   <meta charset="UTI=8"> 
   <title>Assignment1</title> 
-  <link rel="stylesheet" href="f.css"/> 
+  <link rel="stylesheet" href="monfichier1.css"/> 
  </head> 
  <body> 
   <h1> OUR MENU </h1> 
