@@ -1,8 +1,10 @@
+
 <!doctype html>
+<html lang="en">
  <head> 
-  <meta charset="utf=8"> 
+  <meta charset="utf-8"> 
   <title>Assignment1</title> 
-  <link rel="stylesheet" href="monFichier1.css"/> 
+  <link rel="stylesheet" href="f.css"> 
  </head> 
  <body> 
   <h1> OUR MENU </h1> 
