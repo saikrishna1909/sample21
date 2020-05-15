@@ -11,19 +11,8 @@ h1 {
      background: blue;
      height: 30px;
       width: 100px blue;
+      padding: 0;
+      margin: 0;
 }
- }
- .d2< .h
-{  
-    background: red;
-padding: 10px;
-     height: 30px;
-      width: 100px;
-}
-.d3< .h3
-{
-     background: orange;
-    padding: 10px;
-    height:60px;
-    width: 60px;
-}
+ 
+ 
