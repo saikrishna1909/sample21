@@ -7,7 +7,8 @@ h1 {
 
  .container h2
  {
-     text-position: top right;
+     border: 10px;
+     
      background: blue;
    padding: 10px red;
      height: 30px;
