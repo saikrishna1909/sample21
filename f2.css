@@ -5,17 +5,16 @@ h1 {
 
 #box {
      background: green ;
-
-#p1
- {
+  
+ }
+#p1{
 background: pink;
      padding: 0;
      margin: 0;
      border: 5px black;
  }  
- }
-#p2
- {
+ 
+#p2{
 
 background: blue;
      padding: 0;
@@ -23,24 +22,21 @@ background: blue;
      border: 5px black;
  }
      
- }
-#p3
- {
+ 
+#p3{
      background: orange;
      padding: 0;
      margin: 0;
      border: 5px black;
  }
- #a1
-{  
+ #a1{  
 padding: 0;
 margin: 0;
 border: 5px black;
 background: white;
 float: right;
 }
- #a2
-{  
+ #a2{  
 float: right;
 
 padding: 0;
@@ -48,9 +44,8 @@ margin: 0;
 border: 5px black;
 background: white;
 
-}
- #a3
-{  
+}  
+  #a3{  
 float: right;
 padding: 0;
 margin: 0;
