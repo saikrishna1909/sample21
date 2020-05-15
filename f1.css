@@ -5,7 +5,7 @@ h1 {
 }
    
 
- .container h2
+ .container 
  {
      border: 5px solid black;
      background: blue;
@@ -13,5 +13,6 @@ h1 {
       margin: 40px purple;
       float: right;
 }
+
  
  
