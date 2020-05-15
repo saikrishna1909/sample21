@@ -5,12 +5,13 @@ h1 {
 
 #box {
      background: green ;
+     border: 5px black;
   
  }
 #p1{
 background: pink;
      padding: 0;
-     margin: 0;
+     margin: 10px;
      border: 5px black;
  }  
  
@@ -18,7 +19,7 @@ background: pink;
 
 background: blue;
      padding: 0;
-     margin: 0;
+     margin: 5px;
      border: 5px black;
  }
      
@@ -26,8 +27,8 @@ background: blue;
 #p3{
      background: orange;
      padding: 0;
-     margin: 0;
-     border: 5px black;
+     margin: 10px;
+     border-colour: black;
  }
  #a1{  
 padding: 0;
