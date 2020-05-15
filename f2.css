@@ -28,7 +28,7 @@ background: blue;
      background: orange;
      padding: 0;
      margin: 10px;
-     border-colour: black;
+     border: 5px black;
  }
  #a1{  
 padding: 0;
