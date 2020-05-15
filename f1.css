@@ -10,8 +10,11 @@ h1 {
      background: blue;
       padding: 10px 10px 10px 10px;
       margin: 4px purple;
-      float: right;
-}
+     
+   }
 
+h2
+ {
+       float: right top;
  
- 
+}
