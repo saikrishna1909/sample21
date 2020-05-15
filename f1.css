@@ -8,9 +8,7 @@ h1 {
  .container h2
  {
      border: 10px;
-     
      background: blue;
-   padding: 10px red;
      height: 30px;
       width: 100px;
 }
